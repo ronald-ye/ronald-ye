@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
+[Project 1 Title](https://github.com/ronald-ye/ronald-ye.github.io/blob/97e06bdad0b07003e0aa4bdb330f9d83cb2ebf8a/LendingClub.ipynb)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
